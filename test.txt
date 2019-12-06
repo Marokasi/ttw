@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Hllo world =
 Added in new branch
->>>>>>> ttp
+
