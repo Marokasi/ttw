@@ -12,4 +12,12 @@
 		}
 	}
 
-}			
+}	
+
+
+"resources": [],
+	"outputs": {
+		"exampleOutput1": {
+			"value": "[variables('var1')]",
+			"type" : "string"
+		},
