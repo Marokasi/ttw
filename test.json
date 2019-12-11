@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {},
+	"variables": {
+		"var1": "myVariable",
+		"var2": [ 1,2,3,4 ],
+		"var3": "[ variables('var1') ]",
+		"var4": {
+			"property1": "value1",
+			"property2": "value2"
+		}
+	}
+
+}			
