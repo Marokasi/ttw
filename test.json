@@ -21,3 +21,18 @@
 			"value": "[variables('var1')]",
 			"type" : "string"
 		},
+
+
+
+		"exampleOutput2": {
+			"value": "[variables('var2')]",
+			"type" : "array"
+		},
+		"exampleOutput3": {
+			"value": "[variables('var3')]",
+			"type" : "string"
+		},
+		"exampleOutput4": {
+			"value": "[variables('var4')]",
+			"type" : "object"
+		}
