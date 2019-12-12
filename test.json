@@ -13,3 +13,9 @@
 	}
 
 }			
+
+
+az keyvault set-policy \
+  --upn $userPrincipalName \
+  --name $keyVaultName \
+  --secret-permissions set delete get list
