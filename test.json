@@ -13,29 +13,3 @@
 	}
 
 }			
-
-
-<<<<<<< HEAD
-az keyvault set-policy \
-  --upn $userPrincipalName \
-  --name $keyVaultName \
-  --secret-permissions set delete get list
-
-
-  {
-  "Name": "Key Vault resource manager template deployment operator",
-  "IsCustom": true,
-  "Description": "Lets you deploy a resource manager template with the access to the secrets in the Key Vault.",
-  "Actions": [
-    "Microsoft.KeyVault/vaults/deploy/action"
-  ],
-  "NotActions": [],
-  "DataActions": [],
-  "NotDataActions": [],
-  "AssignableScopes": [
-    "/subscriptions/00000000-0000-0000-0000-000000000000"
-  ]
-}
-=======
-# just a placehholder #
->>>>>>> tty
