@@ -15,6 +15,7 @@
 }			
 
 
+<<<<<<< HEAD
 az keyvault set-policy \
   --upn $userPrincipalName \
   --name $keyVaultName \
@@ -35,3 +36,6 @@ az keyvault set-policy \
     "/subscriptions/00000000-0000-0000-0000-000000000000"
   ]
 }
+=======
+# just a placehholder #
+>>>>>>> tty
